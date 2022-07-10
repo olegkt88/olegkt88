@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oleg
--- 🌱 I’m currently learning  Java? Py?tho?n ? Arduino
+-- 🌱 I’m currently learning  Java, Python, Arduino.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 -
